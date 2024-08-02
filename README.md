@@ -39,7 +39,7 @@ Certifique-se de discutir as mudanças importantes com os proprietários do repo
 
 **Desenvolvedores Principais**
 
-- [Eduardo](https://github.com/Eduardo-K197) 
+- [Carlos Eduardo](https://github.com/Eduardo-K197) 
 - [Kelvin Guimarães](https://github.com/KelvinGuimaraes/) 
 - [Alysson Rafael](https://github.com/alyssonrafael) 
 
